@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sevillio
-- 👀 I’m interested in Python, AI learning,  Machine learning 
+- 👀 I’m interested in Python, AI learning,  Machine learning. C# 
 - 🌱 I’m currently learning SQL, Python
 - 💞️ I’m looking to collaborate on various projects 
 - 📫 How to reach me through instagram, slowly,  discord
